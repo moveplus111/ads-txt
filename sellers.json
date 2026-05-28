@@ -1,0 +1,12 @@
+{
+  "contact_email": "moveplus111@gmail.com",
+  "version": "1.0",
+  "sellers": [
+    {
+      "seller_id": "pub-7264284069622414",
+      "name": "최희성",
+      "domain": "moveplus.kr",
+      "seller_type": "PUBLISHER"
+    }
+  ]
+}
